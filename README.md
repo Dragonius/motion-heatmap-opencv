@@ -1,6 +1,6 @@
 # motion-heatmap-opencv
 
-
+im gonna adjust files where they are and where they are done
 
 ### Steps to run Code
 - Clone the repository.
