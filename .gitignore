@@ -62,4 +62,4 @@ target/
 .Vscode
 
 #Generated diff images
-diff/
+diff/*.jpg
